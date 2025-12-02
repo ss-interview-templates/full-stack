@@ -1,4 +1,4 @@
-# SaleSale Interview Template
+# Coding Interview Template
 
 Please clone this repo. We will use this during our coding exercise.
 
