@@ -7,7 +7,13 @@ If, for any reason, you are uncomfortable cloning this repo, please use [create-
 ## Requirements
 
 - Use `create-next-app` to create a blogging site
-- Data should be fetched from an API and displayed in a UI
-- Users can create, read, update and search for posts
+- Data should be fetched from API endpoints and displayed in the UI
+
+Create the following features, in order:
+
+- User can create a blog post
+- User can view a list of blog posts
+- User can filter the blog post list
+- User can view a single blog post
 
 Focus on functionality over style.
